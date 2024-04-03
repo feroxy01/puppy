@@ -2,6 +2,7 @@ package puppy
 
 import (
 	"github.com/feroxy01/dog"
+	"github.com/feroxy01/test"
 )
 
 func Bark() string {
@@ -19,4 +20,7 @@ func BigBark() string {
 }
 func BigBarks() string {
 	return dog.WhenGrownUp(Barks())
+}
+func tt() string {
+	return test.Test()
 }

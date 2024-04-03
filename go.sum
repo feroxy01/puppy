@@ -2,3 +2,7 @@ github.com/feroxy01/dog v0.0.0-20240403064443-305042d9bbfb h1:GggpcHkR3KqQmL9A0M
 github.com/feroxy01/dog v0.0.0-20240403064443-305042d9bbfb/go.mod h1:ZEhYCztxq9s8xLMDOxTfeSUvMtbKcNx9EZptGRUTKA4=
 github.com/feroxy01/dog v0.0.0-20240403065204-cec162020b64 h1:2Xj3EIaSBe1byilfM2SguHNWjH8gRrXgWuHFYgDMxZI=
 github.com/feroxy01/dog v0.0.0-20240403065204-cec162020b64/go.mod h1:OdNAu4Z0Xkn6lQAar4yxEki/kdL3dUE1HMTZLaJgIqI=
+github.com/feroxy01/test v0.0.0-20240403071934-fb6f39b6d884 h1:6sZc2eKuOrglR3HPbj1R/cBZ5vRVYEpDWrk3f1ynI6U=
+github.com/feroxy01/test v0.0.0-20240403071934-fb6f39b6d884/go.mod h1:qHc7xpTHh+8bfB2OJ4jdnyZUvm5Hgn7IvWJw18CHFx8=
+github.com/feroxy01/test v0.0.0-20240403090307-3e756c2680bc h1:a0IPl3WToL1/E3ZZ14NHH55lxtVnEN9rNU1CKibuo6U=
+github.com/feroxy01/test v0.0.0-20240403090307-3e756c2680bc/go.mod h1:qHc7xpTHh+8bfB2OJ4jdnyZUvm5Hgn7IvWJw18CHFx8=
