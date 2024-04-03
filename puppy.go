@@ -21,6 +21,6 @@ func BigBark() string {
 func BigBarks() string {
 	return dog.WhenGrownUp(Barks())
 }
-func tt() string {
+func TestT() string {
 	return test.Test()
 }
